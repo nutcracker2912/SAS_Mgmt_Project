@@ -52,4 +52,4 @@ This project is a Python-based application designed to help managers in various 
 
 ## License
 
-This project is open-source and available for use under the MIT License.
+This project is open-source and available for use without a License.
